@@ -15,6 +15,7 @@ General instructions for all Pre-Work Projects are located in the Chingu Voyage 
 ![ZenHub Screenshot](./assets/ZenHub_screenshot.png)
 
 To see the ZenHub tab on the GitHub repo webpage requires that you install ZenHub's browser extension. For more
-information and installation instructions visit [ZenHub Browser Extension](https://www.zenhub.com/extension).
+information visit the [ZenHub Browser Extension page](https://www.zenhub.com/extension) and these 
+[installation instructions](https://t.ly/3v8w).
 
 Good Luck!!!
