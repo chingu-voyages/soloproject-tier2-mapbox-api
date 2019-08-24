@@ -10,7 +10,7 @@ Mapbox API to build a map of a city of your choice.
 ## Instructions
 
 General instructions for all Pre-Work Projects are located in the Chingu Voyage Handbook (URL posted in the
-`#prework-community-news channel` on Discord). For detailed requirements checkout the ZenHub Board that is part of this repo.
+`#read-me-first` channel on Discord). For detailed requirements checkout the ZenHub Board that is part of this repo.
 
 ![ZenHub Screenshot](./assets/ZenHub_screenshot.png)
 
