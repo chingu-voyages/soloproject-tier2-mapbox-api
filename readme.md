@@ -20,10 +20,10 @@ requirements checkout the following requirements.
 - [ ] Read over the Mapbox API documentation
 
       Things to look for in the [Mapbox API](https://docs.mapbox.com/api/) documentation:
-      - [ ] API endpoint
-      - [ ] Setting up an API token
-      - [ ] Setting up a request aka limits to the returned result, etc
-      - [ ] How to query only for the exact info you need.
+      - API endpoint
+      - Setting up an API token
+      - Setting up a request aka limits to the returned result, etc
+      - How to query only for the exact info you need.
 
 - Setup your parent component containing at least the following:
   - [ ] Navigation (or a button to toggle the sidebar)
