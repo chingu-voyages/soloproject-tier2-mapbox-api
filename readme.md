@@ -12,14 +12,14 @@ your choice.
 
 General instructions for all Solo Projects are located in the 
 [Chingu Library](https://voyage.docs.chingu.io/prework/howwork). For detailed 
-requirements checkout the following requirements.
+requirements, please checkout the following.
 
 ### Requirements
 
 *Structure*
 - [ ] Read over the Mapbox API documentation
 
-      Things to look for in the [Mapbox API](https://docs.mapbox.com/api/) documentation:
+      Topics to look for in the [Mapbox API](https://docs.mapbox.com/api/) documentation:
       - API endpoint
       - Setting up an API token
       - Setting up a request aka limits to the returned result, etc
@@ -38,20 +38,22 @@ requirements checkout the following requirements.
 *Style*
 - [ ] You may use any style you choose. However, it should be consistent (e.g.
 font, font size, color scheme, layout, etc.).
+  - See [Consistent Web Design](https://1stwebdesigner.com/consistent-web-design/)
+  - See [Why is consistency important in Web Design?](https://laceytechsolutions.co.uk/blog/importance-of-consistency-in-web-design/)
 
 *Functionality*
 - Sidebar behaviors:
-  - [ ] By default all all available markers should be displayed
+  - [ ] By default all available markers should be displayed
   - [ ] Markers update in search results and on the map while the user is 
-  typing intp the search input field
+  typing into the search input field
   - [ ] User should be able to click a button to toggle the sidebar visibility
-- The map component displays:
+- The map component should display:
   - [ ] The map of your city using the Mapbox API
   - [ ] At least five markers for five unique locations or attractions in your city
 
 *Other*
-- [ ] Your repo needs to have a robust `README.md`
-- [ ] Make sure that there are no errors in the developer console before submitting
+- [ ] Your repo needs to have a robust `README.md` (See [Keys to a Well-Written Readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d))
+- [ ] Before submitting make sure that there are no errors in the developer console
 - [ ] Anticipate and handle any edge cases
   - [ ] Does entering random data, such as a mix of alphbetic, numeric, and
   special characters in the search input result in an error?
