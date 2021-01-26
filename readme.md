@@ -3,10 +3,24 @@
 ![Tier2 Mapbox API](./assets/Tier2_mapbox_api.gif)
 
 ## Overview
+
 This project helps you gain experience in using API's to enhance the value
 your applications provide to their users. Your objective with this project is 
 to build a web application using the Mapbox API to build a map of a city of 
 your choice.
+
+## About Chingu
+
+If you aren’t yet a member of Chingu we invite you to join us. We help our 
+members transform what they’ve learned in courses & tutorials into the 
+practical experience employers need and want.
+
+Our remote team projects let you refine your technical skills and put them 
+into practice while gaining new “soft” skills like communication, 
+collaboration, and Agile project management. The types of skills that 
+help real-world teams get things done!
+
+You can learn more and join us at [chingu.io](https://chingu.io).
 
 ## Instructions
 
